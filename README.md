@@ -3,7 +3,7 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 
 - 🔭  Front End Developer 
 - 🌱 I’m currently learning  Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on Web Development and Open source projects. 
+- 👯 I’m looking to collaborate on Web Development Projects and Open source projects. 
 - 📫 How to reach me: shreyapprasad@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/shreyap05)  
@@ -27,5 +27,5 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shreyap05&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" /> 
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyap05&theme=vue-dark&hide_border=false" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <img src= "https://activity-graph.herokuapp.com/graph?username=shreyap05" />  
