@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shreya Prasad
+### Hi there 👋, I'm Shreya Prasad 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering. I'm currently into Web Development and working on my Data Structures and Algorithms skills.
 
 - 🔭  Front End Developer 
