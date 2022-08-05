@@ -27,9 +27,9 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 
 <div style="display: flex; flex-direction: row;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyap05&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=shreyap05&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyap05&theme=gotham&hide_border=false" />
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyap05&theme=gotham&hide_border=false" />
 
 </div>
 
