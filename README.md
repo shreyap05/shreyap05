@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shreya Prasad 👩🏻‍💻
+## Hi there 👋, I'm Shreya Prasad 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering. I'm currently into Web Development and working on my Data Structures and Algorithms skills.
 
 - 🔭  Front End Developer 
@@ -23,9 +23,15 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyap05&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyap05&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shreyap05&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" /> 
-<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyap05&theme=vue-dark&hide_border=false" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<img src= "https://activity-graph.herokuapp.com/graph?username=shreyap05" />  
+<div style="display: flex; flex-direction: row;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shreyap05&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyap05&theme=gotham&hide_border=false" />
+
+</div>
+
+[![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyap05&theme=gotham)](https://github.com/shreyap05/github-readme-activity-graph)
+
