@@ -15,7 +15,7 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 
 <h3 align="left">Tools and languages: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,py,linux,eclipse,gcp,androidstudio,ai,ps)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,py,linux,eclipse,gcp,androidstudio,ai,ps)
 
 ### 📊 GitHub Stats:
 
