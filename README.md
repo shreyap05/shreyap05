@@ -17,14 +17,15 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 <table width="95" align='center'>
 <tr>
     <td align='center' width="55">
+        <a href="https://linkedin.com/in/shreya-prasad-1b69751b2"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="55"></a>
+    </td>
+    <td align='center' width="55">
         <a href="https://twitter.com/__shreyap__"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="55"></a>
     </td>
     <td align='center' width="55">
         <a href="https://instagram.com/__shreyap__"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
-    <td align='center' width="55">
-        <a href="https://linkedin.com/in/shreya-prasad-1b69751b2"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="55"></a>
-    </td>
+    
 </tr>
 </table>
 </p>
