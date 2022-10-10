@@ -31,13 +31,13 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 </p>
 
 <br>
-<h2 align='center'><i>Languages and Tools</i></h2>
+<h2 align='center'><i> <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="40px">  Languages and Tools</i></h2>
 
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,java,c,py,gcp,androidstudio,ai,ps"><br>
 <br>
   
-<h2 align='center'><i> 📊GitHub Stats</i></h2>
+<h2 align='center'><i><img src="https://camo.githubusercontent.com/1ecbe12a1569a272510c2e02dafe718838b736de234b1baf24bed9dc35dd6eb8/68747470733a2f2f7468656c696e6b6e65777370617065722e63612f696d616765732f61727469636c65732f566f6c756d655f33362f5370656369616c2f5f726573697a65642f6d6564696164656d2e706f6c6c732e4c617572614c616c6f6e64652e676966" width="65px">GitHub Stats</i></h2>
 <p align="center">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyap05&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
