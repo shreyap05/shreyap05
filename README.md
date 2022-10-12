@@ -11,7 +11,7 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 - 📫 How to reach me: shreyapprasad@gmail.com 
 
     
-<h3 align='center'><i>Social Media Handles</i></h3>
+<h3 align='center'><i>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> Social Media Handles</i></h3>
 <p align='center'>
  
 <table width="95" align='center'>
