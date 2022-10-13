@@ -59,5 +59,3 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 
 </br>
 
-[![@shreya's Holopin board](https://holopin.io/api/user/board?user=shreya)](https://holopin.io/@shreya)
-
