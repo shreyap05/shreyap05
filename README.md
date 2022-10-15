@@ -57,5 +57,5 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
   
 </p>
 
-</br>
+
 
