@@ -50,7 +50,7 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 </p>
 
 <br>
-<h2 align='center'><i>Activity Graph 📈</i></h2>
+<h2 align='center'><i>Activity Graph📈</i></h2>
 <p align="center">
   
 [![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyap05&theme=gotham)](https://github.com/shreyap05/github-readme-activity-graph)
