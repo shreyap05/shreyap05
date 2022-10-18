@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there👋, I am Shreya Prasad👩🏻‍💻</h1>
+<h1 align='center'>Hi there👋, I'm Shreya Prasad👩🏻‍💻</h1>
 
 <p align="center">
 <img align="center" src="https://gpvc.arturio.dev/shreyap05">
